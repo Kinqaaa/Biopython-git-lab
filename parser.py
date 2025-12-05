@@ -4,3 +4,4 @@ def reverse_complement(seq_str)
  return str(seq.reverse_complement())
 if __name=='__main__':
  print(reverse_complement('ATGCATGC'))
+ #fix
